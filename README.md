@@ -128,7 +128,7 @@ ORDER BY total_titles DESC;
 ---
 
 ## Dashboard Preview
-![netflix_data_analysis]()
+![netflix_data_analysis](dashboard.png)
 
 ---
 
