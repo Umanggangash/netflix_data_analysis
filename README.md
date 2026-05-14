@@ -128,7 +128,7 @@ ORDER BY total_titles DESC;
 ---
 
 ## Dashboard Preview
-![netflix_data_analysis](dashboard.png)
+![netflix_data_analysis]("C:\Users\UMANG\Desktop\Netflix_Data_Analysis\dashboard 1.png")
 
 ---
 
